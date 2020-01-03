@@ -1,0 +1,21 @@
+{
+	"type": "Collection",
+	"properties": {
+		"place": {
+			"name": "place",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "place",
+			"order": 0
+		},
+		"action": {
+			"name": "action",
+			"type": "string",
+			"typeLabel": "string",
+			"required": false,
+			"id": "action",
+			"order": 1
+		}
+	}
+}
